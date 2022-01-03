@@ -1,0 +1,23 @@
+.nav {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+p{
+    color: darkred;
+}
+
+.title {
+    background-color: black;
+}
+
+.btn {
+    font-size: x-large;
+    font-weight:500;
+    border-radius: 10px;
+    background-color: lightgray;
+    
+}
